@@ -1,0 +1,19 @@
+.titles{
+    font-family: 'Pattaya', sans-serif;
+    font-size:30px;
+}
+.card{
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 0;
+}
+.tops{
+    margin-top:100px;
+}
+.jumbotron{
+    font-family: 'Pattaya', sans-serif;
+}
+
+.btn{
+    font-family: 'Pattaya', sans-serif;   
+}
