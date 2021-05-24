@@ -12,6 +12,10 @@
 }
 .jumbotron{
     font-family: 'Pattaya', sans-serif;
+    background-image: url(../img/back.png);
+    background-position:cover;
+    
+    
 }
 
 .btn{
